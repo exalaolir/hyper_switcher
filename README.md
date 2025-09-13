@@ -23,6 +23,6 @@ This utility is used to toggle VirtualMachinePlatform and WSL. I created it beca
 > [!IMPORTANT]
 > **You must have python>=3.13**
 
-1. Download **hyperswitcher.whl** from the Releases section.
+1. Download **hyperswitcher.whl** from the [Releases](https://github.com/exalaolir/hyper_switcher/releases) section.
 2. Open the terminal in the folder where you downloaded the **hyperswitcher.whl** file.
 3. Run ```pip inslall hyperswitcher.whl```
