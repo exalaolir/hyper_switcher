@@ -1,0 +1,12 @@
+[project]
+name = "hyperswitcher"
+version = "1.0.0"
+description = "Util that enable or disable WSL and VirtualMachinePlatform"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "termcolor>=3.1.0",
+]
+
+[project.scripts]
+hyperswitcher = "hyper_switcher.main:main"
